@@ -1,2 +1,2 @@
 # Turing-Machines
-Turing Machines implementation w/JFLAP
+Implementazione di macchine di Turing con JFLAP

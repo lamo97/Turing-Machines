@@ -1,0 +1,34 @@
+- Segna il simbolo divisore # sul secondo nastro
+- Scorri il primo nastro e copia il suo contenuto sul secondo fino al simbolo =
+- Scorri il primo nastro a sinistra e leggi l'ultima cifra cambiala con $, copiala sul secondo nastro
+- Allinea primo e secondo nastro, effettua la moltiplicazione
+	CASO 1: nessun riporto
+	- cambia la cifra letta sul primo nastro con la sua abbreviazione in lettere
+	- segna il numero sul terzo nastro, scorri a sx il terzo nastro, segna un #, scorri nuovamente a sinistra
+	- ripeti con il prossimo numero del moltiplicatore
+	
+	CASO 2: riporto
+	- segna la prima cifra sul terzo nastro, lasciando primo e secondo fermo dal momento che la seconda
+	  cifra del riporto dipenderà da esso
+	- scorri a sx il terzo nastro, segna la cifra, cambia la cifra sul primo nastro in abbreviazione, segna # sul terzo
+	- scorri a sx il secondo nastro in modo da avere blanks sul secondo e terzo
+	- scorri a dx il terzo nastro trova i #, segna uno zero sul terzo nastro per ogni # letto
+	- scorri a sx il primo nastro fino a trovare la prima cifra non abbreviata, che sarà la prossima da moltiplicare
+	- scorri a dx il secondo nastro per riallineare
+
+ZE
+ON
+TW
+TH
+FR
+FV
+SX
+SV
+EH
+NN
+TE
+
+
+12x12
+
+4+20+20+20

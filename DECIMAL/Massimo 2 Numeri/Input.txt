@@ -1,0 +1,8 @@
+S(123,12)=			0 (A lunghezza)
+S(123,122)=			0 (A valore) 
+S(1,1)=				0 (A=B)
+S(0,0)=				0 (A=B)
+S(123,1244)=			1 (B lunghezza)
+S(9877,9878)=			1 (B valore)
+S(988776655432,988776655433)=	1 (B valore)
+S(93274637,1)=			0 (A lunghezza)
